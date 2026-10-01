@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://i3etwahal2h2"]
+
+[ext_resource type="Script" uid="uid://vgkhk3cduaql" path="res://conditional_scripts/keys_pressed/a_pressed.gd" id="1_6r00q"]
+
+[node name="Node" type="Node" unique_id=1634599650]
+script = ExtResource("1_6r00q")

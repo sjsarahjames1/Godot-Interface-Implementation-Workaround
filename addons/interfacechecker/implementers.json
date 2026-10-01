@@ -1,0 +1,8 @@
+{
+	"APressed" : {
+		"uid" : "uid://vgkhk3cduaql",
+		"path" : "res://conditional_scripts/keys_pressed/a_pressed.gd",
+		"implements" : ["Conditional"]
+	}
+}
+	
